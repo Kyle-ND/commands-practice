@@ -8,8 +8,13 @@ def multiply(*numbers):
         output = n*output
     return output
 
-def subtract():
-    ...
+def subtract(a,b):
+    a = 10
+    b = 5
+    
+    diff = a - b
+    print(f'{diff}')
+    
 
 def divide():
     ...
