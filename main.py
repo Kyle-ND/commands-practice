@@ -12,5 +12,12 @@ def subtract():
     ...
 
 def divide():
+<<<<<<< HEAD
     ...
 
+=======
+    x = input("What is x? ")
+    y = input("What is y? ")
+
+    z = float(x / y)
+>>>>>>> 066961f (Added changes)
