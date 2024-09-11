@@ -9,12 +9,7 @@ def multiply(*numbers):
     return output
 
 def subtract(a,b):
-    a = 10
-    b = 5
-    
-    diff = a - b
-    print(f'{diff}')
-    
+    return a-b
 
 def divide():
     ...
