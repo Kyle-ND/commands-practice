@@ -14,11 +14,3 @@ def subtract():
 def divide():
     ...
 
-# var = 6
-# check = type(var)
-
-# # print(f'The variable is of type {check}')
-
-# if isinstance(var, str): print('OK')
-# else: var = str(var); print(f' {type(var)}')
-
