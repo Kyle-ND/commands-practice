@@ -1,8 +1,8 @@
-def add():
-    ...
+def add(a,b):
+    return a + b
 
-def multiply():
-    ...
+def multiply(a,b):
+    return a * b
 
 def subtract():
     ...
