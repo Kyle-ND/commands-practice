@@ -7,8 +7,11 @@ print (x+y)
 def multiply():
     ...
 
-def subtract():
-    ...
+def subtract(x,y):
+    y - x 
+
+print(subtract(6,8))
+    
 
 def divide():
     ...
