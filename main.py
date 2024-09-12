@@ -1,5 +1,8 @@
 def add():
-    ...
+    x = 10
+    y = 7
+
+print (x+y)   
 
 def multiply():
     ...
