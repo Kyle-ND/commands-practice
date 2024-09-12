@@ -4,8 +4,10 @@ def add():
 
 print (x+y)   
 
-def multiply():
-    ...
+def multiply(y,x):
+    x * y
+print(multiply(10,5))
+    
 
 def subtract(x,y):
     y - x 
