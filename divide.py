@@ -1,5 +1,5 @@
 def divide():
-    x = input("What is x? ")
-    y = input("What is y? ")
+    x = int(input("What is x? "))
+    y = int(input("What is y? "))
 
     z = float(x / y)
